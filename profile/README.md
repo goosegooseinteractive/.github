@@ -1,11 +1,3 @@
 # Hi there!
 
-We are a group of students building games and other software.
-
-We are interested in these things:
-
-- Game engines
-
-- Operating systems
-
-- Reverse engineering
+Goose Goose Interactive's home of open source projects. More will be added in due time.
